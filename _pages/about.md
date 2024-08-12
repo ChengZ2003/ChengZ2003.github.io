@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Data Science Undergrad @ Wuhan Textile U., School of CS & AI
 
