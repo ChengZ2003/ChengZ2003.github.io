@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 description: Display of some big and small awards.
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 
