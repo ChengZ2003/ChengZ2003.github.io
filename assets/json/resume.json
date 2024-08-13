@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jiang Cheng",
+    "label": "Undergraduate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jcc03082@gmail.com",
+    "phone": "(+86) 18128690749",
+    "url": "https://chengz2003.github.io/",
+    "summary": "An Undergrad @ Wuhan Textile U., School of CS & AI",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Wuhan Textile University, Wuhan, China",
+      "location": "Wuhan, China",
+      "url": "https://www.wtu.edu.cn/",
+      "area": "Data Science & Big Data Technology",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2021-09-15",
+      "endDate": "2025-06-15 (expected)",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Linux System Programming", "Machine Learning", "Deep Learning", "Hadoop System Development", "In-Memory Computing with Spark"]
     }
   ],
   "awards": [
