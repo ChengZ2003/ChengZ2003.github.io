@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 permalink: /blog/
 title: Blog
@@ -194,3 +194,4 @@ pagination:
 {% endif %}
 
 </div>
+--- -->
