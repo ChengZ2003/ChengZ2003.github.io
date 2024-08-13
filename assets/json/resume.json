@@ -30,7 +30,9 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": [
+        "Relativity"
+      ]
     }
   ],
   "volunteer": [
@@ -42,7 +44,10 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ],
   "education": [
@@ -55,16 +60,21 @@
       "startDate": "2021-09-15",
       "endDate": "2025-06-15 (expected)",
       "score": "10",
-      "courses": ["Linux System Programming", "Machine Learning", "Deep Learning", "Hadoop System Development", "In-Memory Computing with Spark"]
+      "courses": [
+        "Linux System Programming",
+        "Machine Learning",
+        "Deep Learning",
+        "Hadoop System Development",
+        "In-Memory Computing with Spark"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "National Scholarship",
+      "date": "2023-12",
+      "awarder": "Ministry of Education of the People's Republic of China",
+      "image": "assets/img/reward_img/national_scholarship.jpg"
     }
   ],
   "certificates": [
@@ -151,7 +161,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -191,7 +201,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"

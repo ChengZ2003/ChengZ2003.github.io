@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jiang
-middle_name: 
+middle_name:
 last_name: Cheng
 email: jcc03082@gmail.comm
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -634,12 +634,12 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
-  - projects
-  - volunteer
+  # - publications
+  # - projects
+  # - volunteer
   - awards
   - certificates
   - skills
   - languages
   - interests
-  - references
+  # - references
