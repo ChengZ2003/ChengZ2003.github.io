@@ -225,7 +225,7 @@ kramdown:
       line_numbers: false
       start_line: 1
 
-# Includes & excludes
+# Includes & excludeso
 include: ["_pages"]
 exclude:
   - bin/

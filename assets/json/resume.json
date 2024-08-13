@@ -22,6 +22,25 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Wuhan Textile University, Wuhan, China",
+      "location": "Wuhan, China",
+      "url": "https://www.wtu.edu.cn/",
+      "area": "Data Science & Big Data Technology",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2021-09-15",
+      "endDate": "2025-06-15 (expected)",
+      "score": "10",
+      "courses": [
+        "Linux System Programming",
+        "Machine Learning",
+        "Deep Learning",
+        "Hadoop System Development",
+        "In-Memory Computing with Spark"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -47,25 +66,6 @@
       "highlights": [
         "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
         "Men of the year 2014 by Time magazine"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Wuhan Textile University, Wuhan, China",
-      "location": "Wuhan, China",
-      "url": "https://www.wtu.edu.cn/",
-      "area": "Data Science & Big Data Technology",
-      "studyType": "Bachelor of Engineering",
-      "startDate": "2021-09-15",
-      "endDate": "2025-06-15 (expected)",
-      "score": "10",
-      "courses": [
-        "Linux System Programming",
-        "Machine Learning",
-        "Deep Learning",
-        "Hadoop System Development",
-        "In-Memory Computing with Spark"
       ]
     }
   ],
