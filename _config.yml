@@ -643,3 +643,9 @@ jsonresume:
   - languages
   - interests
   # - references
+
+# Enable awards section
+enable_awards: true
+
+# Directory containing award files (Markdown)
+awards_dir: _awards
