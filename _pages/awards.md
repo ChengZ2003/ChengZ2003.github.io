@@ -11,7 +11,7 @@ horizontal: false
 <!-- pages/awards.md -->
 <div class="awards">
   {% if site.enable_awards %}
-    {% assign awards = site[site.awards_dir] | sort: "importance" | reverse %}
+    {% assign awards = site[site.awards_dir] | sort: "importance" %}
     {% for award in awards %}
       <div class="award">
         <h2>{{ award.title }}</h2>
