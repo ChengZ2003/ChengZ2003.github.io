@@ -37,20 +37,37 @@
         "Machine Learning",
         "Deep Learning",
         "Hadoop System Development",
-        "In-Memory Computing with Spark"
+        "In-Memory Computing with Spark",
+        "Other Computer Science Courses (e.g., Operating Systems, Principles of Computer Networks)"
       ]
     }
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "LinkTime Cloud Co., Ltd",
+      "position": "Software Development Engineer, Intern",
+      "url": "https://en.linktimecloud.com/",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "summary": "SDE @ LinkTime Cloud",
       "highlights": [
-        "Relativity"
+        "RAG(Retrieval-Augmented Generation) System",
+        "Natural Language Processing(NLP)",
+        "Containerized Deployment",
+        "FastAPI Backend"
+      ]
+    },
+    {
+      "name": "KOTEI Informatics Co., Ltd.",
+      "position": "Machine Learning Engineer, Intern",
+      "url": "http://english.kotei-info.com/",
+      "startDate": "2024-05",
+      "endDate": "2024-06",
+      "summary": "MLE @ KOTEI Informatics",
+      "highlights": [
+        "Object Detection",
+        "GUI Development via Qt",
+        "Quantitative Deployment"
       ]
     }
   ],
@@ -75,6 +92,11 @@
       "date": "2023-12",
       "awarder": "Ministry of Education of the People's Republic of China",
       "image": "assets/img/reward_img/national_scholarship.jpg"
+    },
+    {
+      "title": "Climbing Scholarship",
+      "date": "2023-12",
+      "awarder": "Wuhan Textile University Education Development Foundation"
     }
   ],
   "certificates": [
