@@ -88,40 +88,46 @@
   ],
   "awards": [
     {
-      "title": "National Scholarship",
-      "date": "2023-12",
-      "awarder": "Ministry of Education of the People's Republic of China",
-      "image": "assets/img/reward_img/national_scholarship.jpg"
-    },
-    {
-      "title": "Climbing Scholarship",
-      "date": "2023-12",
-      "awarder": "Wuhan Textile University Education Development Foundation"
-    },
-    {
-      "title": "Merit Student",
-      "date": "2023-12",
-      "awarder": "Wuhan Textile University"
-    },
-    {
-      "title": "The First Prize Scholarship",
-      "date": "2022-12",
-      "awarder": "Wuhan Textile University"
-    },
-    {
       "title": "National First Prize & Hubei First Prize in the 12th Teddy Cup Data Mining Challenge (Title: Multimodal Feature Fusion for Image-Text Retrieval)",
       "date": "2024-06",
-      "awarder": "GuangDong TipDM Intelligent Technology Co.,Ltd. & Committee for The TipDM Cup Data Mining Challenge"
+      "awarder": "GuangDong TipDM Intelligent Technology Co.,Ltd. & Committee for The TipDM Cup Data Mining Challenge",
+      "url": "https://drive.google.com/file/d/1w62T-BcQ9GLjWjnJ9QThWOOcPslxOigK/view?usp=drive_link"
     },
     {
       "title": "Hubei Third Prize in 2023-2024 Huawei ICT competition",
       "date": "2024-03",
-      "awarder": "Huawei Technologies Co., Ltd."
+      "awarder": "Huawei Technologies Co., Ltd.",
+      "url": "https://drive.google.com/file/d/1tuLmn2YbSogrK8ToAtZr7zFh80Id_QNk/view?usp=drive_link"
+    },
+    {
+      "title": "National Scholarship (Top 1%)",
+      "date": "2023-12",
+      "awarder": "Ministry of Education of the People's Republic of China",
+      "url": "https://drive.google.com/file/d/1I31uspxnqMUdzgPfdnFrejbmQXWwCN5H/view?usp=drive_link"
+    },
+    {
+      "title": "Climbing Scholarship (Top 1%)",
+      "date": "2023-12",
+      "awarder": "Wuhan Textile University Education Development Foundation",
+      "url": "https://drive.google.com/file/d/1M0cEeXapxljNBf4-RJJUPoJeC7-BUiti/view?usp=drive_link"
+    },
+    {
+      "title": "Merit Student (Top 3%)",
+      "date": "2023-12",
+      "awarder": "Wuhan Textile University",
+      "url": "https://drive.google.com/file/d/1XtPuODLft_GZdwCcZg_JP8y1dJWsrhF7/view?usp=drive_link"
+    },
+    {
+      "title": "The First Prize Scholarship (Top 3%)",
+      "date": "2022-12",
+      "awarder": "Wuhan Textile University",
+      "url": "https://drive.google.com/file/d/1b_rnDAkdxmHvcRHAxWyDZ2HRtf0gFR5z/view?usp=drive_link"
     },
     {
       "title": "Hubei Third Prize in 2022-2023 Huawei ICT competition",
       "date": "2022-12",
-      "awarder": "Huawei Technologies Co., Ltd."
+      "awarder": "Huawei Technologies Co., Ltd.",
+      "url": "https://drive.google.com/file/d/1AdNTzEbI5kaehxQDcaJGW2KOwksRN1g3/view?usp=drive_link"
     }
   ],
   "certificates": [
